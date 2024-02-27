@@ -20,7 +20,7 @@
         h1 { font-family: 'Roboto Condensed', sans-serif; font-weight: 900; }
         a { color: var(--accent-dark); font-weight: 700; text-decoration: none; }
 
-        .box { background: white; border-radius: 6px; padding: 1em; box-shadow: 0 0 4px #eee; overflow: hidden; position: relative; height: 16em; }
+        .box { flex: 1; background: white; border-radius: 6px; padding: 1em; box-shadow: 0 0 4px #eee; overflow: hidden; position: relative; height: 16em; }
 
         .image-desc { position: absolute; background: linear-gradient(to top, black, rgba(0,0,0,0.7), transparent); padding: 1em; bottom: 0; left: 0; right: 0; color: white; font-size: smaller; }
         .image-desc a { color: var(--accent); }
@@ -41,13 +41,29 @@
     <main class="center" style="padding: 1em 0;">
 
         <div style="display: flex; gap: 1em;">
-            <div class="box" style="flex: 3;">
+            <div class="box" style="flex: 2;">
                 Lorem ipsum dolor sit amet.
             </div>
-            <div class="box" style="flex: 1; background-image: url('https://static.toiimg.com/photo/84475061/America-name.jpg?width=748&resize=4'); background-size: cover;">
-                <div class="image-desc">
-                    What's going on in America? <a href="">Read more</a>
-                </div>
+            <div class="box" style="background-image: url('https://static.toiimg.com/photo/84475061/America-name.jpg?width=748&resize=4'); background-size: cover;">
+                <div class="image-desc">What's going on in America? <a href="">Read more</a></div>
+            </div>
+        </div>
+
+        <div style="display: flex; gap: 1em;">
+            <div class="box" style="background-image: url('https://static.toiimg.com/photo/84475061/America-name.jpg?width=748&resize=4'); background-size: cover;">
+                <div class="image-desc">What's going on in America? <a href="">Read more</a></div>
+            </div>
+            <div class="box" style="background-image: url('https://static.toiimg.com/photo/84475061/America-name.jpg?width=748&resize=4'); background-size: cover;">
+                <div class="image-desc">What's going on in America? <a href="">Read more</a></div>
+            </div>
+            <div class="box" style="background-image: url('https://static.toiimg.com/photo/84475061/America-name.jpg?width=748&resize=4'); background-size: cover;">
+                <div class="image-desc">What's going on in America? <a href="">Read more</a></div>
+            </div>
+            <div class="box" style="background-image: url('https://static.toiimg.com/photo/84475061/America-name.jpg?width=748&resize=4'); background-size: cover;">
+                <div class="image-desc">What's going on in America? <a href="">Read more</a></div>
+            </div>
+            <div class="box" style="background-image: url('https://static.toiimg.com/photo/84475061/America-name.jpg?width=748&resize=4'); background-size: cover;">
+                <div class="image-desc">What's going on in America? <a href="">Read more</a></div>
             </div>
         </div>
         
