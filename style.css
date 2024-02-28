@@ -9,3 +9,16 @@ h1, h2 {
     overflow: hidden;
     font-weight: 400;
 }
+
+blockquote::before, blockquote::after {
+    content: "\"";
+}
+
+cite {
+    font-style: italics;
+    text-align: right;
+}
+
+cite::before {
+    content: "-";
+}
