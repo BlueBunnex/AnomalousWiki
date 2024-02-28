@@ -1,4 +1,3 @@
-# [dogmomai.top](http://dogmomai.top)
-me when I dev: ☝️🤓
+# [AnomalousWiki]([http://dogmomai.top](https://www.kitsumitsu.de/AnomalousWiki/))
 
-women when I dev: 🤤💕💕
+Creative writing/worldbuilding project I'm doing for the funsies.
