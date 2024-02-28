@@ -3,6 +3,14 @@ body {
     margin: auto;
 }
 
+a:hover {
+    text-decoration: none;
+}
+
+a:not([href]) {
+    color: red;
+}
+
 h1, h2 {
     border-bottom: 1px solid grey;
     padding-bottom: 4px;
