@@ -10,13 +10,23 @@ h1, h2 {
     font-weight: 400;
 }
 
+img {
+    float: right;
+    margin: 0 0 1em 1em;
+    width: 35%;
+}
+
+blockquote {
+    font-style: italics;
+}
+
 blockquote::before, blockquote::after {
     content: "\"";
 }
 
 cite {
-    font-style: italics;
     text-align: right;
+    display: block;
 }
 
 cite::before {
