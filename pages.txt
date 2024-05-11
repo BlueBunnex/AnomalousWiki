@@ -10,6 +10,7 @@
         <li><a href="?page=Wendigo">Wendigo</a></li>
         <li><a href="?page=Boering_Rieler_Test">Boering-Rieler Test</a></li>
         <li><a href="?page=Doll_machine">Doll machine</a></li>
+        <li><a href="?page=Anomalous_entities">anomalous entities</a></li>
         <li><a href="?page=Anomalous_Entity_Classification">Anomalous Entity Classification</a></li>
         <li><a>The Rieler Disaster</a></li>
         <li><a>The Eaton County Monster</a></li>
@@ -45,7 +46,7 @@
 ///Andridae///
     <h1>Andridae</h1>
     
-    <p><strong>Andrids</strong> (category <i>Andridae</i>) are a broad categorization of six-toed, arboreal, quadrupedal <a src="?page=Anomalous_entities">anomalous entities</a>.</p>
+    <p><strong>Andrids</strong> (category <i>Andridae</i>) are a broad categorization of six-toed, arboreal, quadrupedal <a href="?page=Anomalous_entities">anomalous entities</a>.</p>
 
     <h2>Appearance</h2>
     <p>Each foot has six digits: five slender toes and a pseudo-thumb evolved to better grasp tree limbs.</p>
@@ -62,7 +63,7 @@
     <h1>Skinwalker</h1>
     <img src="https://townsquare.media/site/532/files/2023/03/attachment-Skinwalker1.jpg">
     
-    <p>Skinwalkers are a <a href="?page=Anomalous_Entity_Classification">Class-A</a> <a>anomalous entity</a>. They are categorized as human-analogous, sharing physical features with humans as a form of aggressive mimicry. Skinwalkers are not related to humans.</p>
+    <p>Skinwalkers are a <a href="?page=Anomalous_Entity_Classification">Class-A</a> <a href="?page=Anomalous_entities">anomalous entity</a>. They are categorized as human-analogous, sharing physical features with humans as a form of aggressive mimicry. Skinwalkers are not related to humans.</p>
     <p>Skinwalkers have been shown to not pass the <a href="?page=Boering_Rieler_Test">Boering-Rieler Test</a> of consciousness.</p>
     
     <h2>Appearance</h2>
