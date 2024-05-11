@@ -10,7 +10,7 @@
         <li><a href="?page=Wendigo">Wendigo</a></li>
         <li><a href="?page=Boering_Rieler_Test">Boering-Rieler Test</a></li>
         <li><a href="?page=Doll_machine">Doll machine</a></li>
-        <li><a href="?page=Anomalous_entities">anomalous entities</a></li>
+        <li><a href="?page=Anomalous_entities">Anomalous entities</a></li>
         <li><a href="?page=Anomalous_Entity_Classification">Anomalous Entity Classification</a></li>
         <li><a>The Rieler Disaster</a></li>
         <li><a>The Eaton County Monster</a></li>
@@ -55,7 +55,7 @@
     <h2>Members</h2>
     <ul>
         <li><a>True Andrids</a></li>
-        <li><a href="Wendigo">Wendigo</a></li>
+        <li><a href="?page=Wendigo">Wendigo</a></li>
     </ul>
 ///#///
 
@@ -79,7 +79,7 @@
     <h1>Wendigo</h1>
     <img src="https://cdn.openart.ai/stable_diffusion/ffc6aca7a0380c80c01048c027d5f946f53e318a_2000x2000.webp">
     
-    <p>Wendigo are a <a href="?page=Anomalous_Entity_Classification">Class-A</a> <a>anomalous entity</a> in the category <a href="Andridae">Andridae</a> that once inhabited Northern America.</p>
+    <p>Wendigo are a <a href="?page=Anomalous_Entity_Classification">Class-A</a> <a>anomalous entity</a> in the category <a href="?page=Andridae">Andridae</a> that once inhabited Northern America.</p>
 
     <h2>In the wild</h2>
     <p>The last wild wendigo sighting was in 2005. It is unknown if they continue to exist in the wild.</p>
@@ -126,7 +126,7 @@
         <p><strong>Class B</strong> entities are incapable of reproduction and so their origin is typically artificial/man-made.</p>
     
         <h2>Class C</h2>
-        <p>Entities classified under <strong>Class C</strong> have been found to, due to some property, only exist as a sole individual within the entire universe. These include beings that support a universal law (such as the <a>Medulla</a> with the expansion of the universe), Jane Rieler's god (as proposed in her <a href="Doll_machine">doll machine</a> thought experiment), and so forth.</p>
+        <p>Entities classified under <strong>Class C</strong> have been found to, due to some property, only exist as a sole individual within the entire universe. These include beings that support a universal law (such as the <a>Medulla</a> with the expansion of the universe), Jane Rieler's god (as proposed in her <a href="?page=Doll_machine">doll machine</a> thought experiment), and so forth.</p>
     
         <h2>Class CU</h2>
         <p>Similar to Class C entities, only one <strong>Class CU</strong> entity of a given type exists, the difference being its uniqueness has yet been proven to be true. The formation of this classification is from <i>Class C</i> and the letter <i>U</i> representing "Unknown."</p>
