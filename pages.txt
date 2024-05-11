@@ -11,6 +11,8 @@
         <li><a href="?page=Boering_Rieler_Test">Boering-Rieler Test</a></li>
         <li><a href="?page=Doll_machine">Doll machine</a></li>
         <li><a href="?page=Anomalous_Entity_Classification">Anomalous Entity Classification</a></li>
+        <li><a>The Rieler Disaster</a></li>
+        <li><a>The Eaton County Monster</a></li>
     </ul>
 ///#///
 
@@ -50,4 +52,80 @@
         <li><a>True Andrids</a></li>
         <li><a href="Wendigo">Wendigo</a></li>
     </ul>
+///#///
+
+///Skinwalker///
+    <h1>Skinwalker</h1>
+    <img src="https://townsquare.media/site/532/files/2023/03/attachment-Skinwalker1.jpg">
+    
+    <p>Skinwalkers are a <a href="Anomalous_Entity_Classification">Class-A</a> <a>anomalous entity</a> in the category <a>Homoanalogae</a>.</p>
+    <p>Skinwalkers have been shown to not pass the <a href="Boering_Rieler_Test">Boering-Rieler Test</a> of consciousness.</p>
+    
+    <h2>Appearance</h2>
+    <p>Skinwalkers appearance varies between individuals, resembling animals or humans with notable deformities. These deformities include lengthened fingers, missing limbs, extra limbs, dislocated jaw, missing jaw, absence of pigmentation in the skin, etc.</p>
+    <p>Skinwalkers are characterized by their gaunt appearance as a result of extremely low body fat percentages. Analysis of cadavers recovered from investigations into hotspots reveal body fat typically below 2%, with body fat concentrated in the trunk around vital organs and almost absent in the outer extremities.</p>
+    
+    <h2>Behaviour</h2>
+    <p>Skinwalkers—like humans and their ancestors—are endurance hunters, pursuing their prey to the point of exhaustion where they are then killed and consumed.</p>
+    <p>Skinwalkers have the ability to—after a short period of observation—mimic the speech of humans it has encountered.</p>
+///#///
+
+///Wendigo///
+    <h1>Wendigo</h1>
+    <img src="https://cdn.openart.ai/stable_diffusion/ffc6aca7a0380c80c01048c027d5f946f53e318a_2000x2000.webp">
+    
+    <p>Wendigo are a <a href="Anomalous_Entity_Classification">Class-A</a> <a>anomalous entity</a> in the category <a href="Andridae">Andridae</a> that once inhabited Northern America.</p>
+
+    <h2>In the wild</h2>
+    <p>The last wild wendigo sighting was in 2005. It is unknown if they continue to exist in the wild.</p>
+
+    <h2>In captivity</h2>
+    <p>Stub :3</p>
+///#///
+
+///Doll_machine///
+    <h1>Doll machine</h1>
+    
+    <p>A <strong>doll machine</strong> is a hypothetical contraption first described by <a>Jane Rieler</a> in 2006 that takes in inorganic matter and creates a living, albeit unconscious, creature. Its successful creation, alongside the absence of a consciousness-producing variant, would challenge the standing theory that conscious and unconscious beings come into being the same way (naturally), and for the same reason (survival).</p>
+    <p>Rieler uses the term doll in multiple talks, the earliest in 2002, as an analogy for "something that resembles a conscious being, but isn't one itself." This analogy is what led her to later propose the doll machine thought experiment.</p>
+    <p>Some speculate that dolls have already been artificially created in the form of <a href="https://en.wikipedia.org/wiki/Artificial_intelligence">artifical intelligence</a>, <a href="https://en.wikipedia.org/wiki/Cellular_automaton">cellular automata</a>, and so forth, while others argue that Rieler's description only lends itself to organic life.</p>
+    
+    <h2>Thought experiment</h2>
+    <p>It is either the case that,</p>
+    <ol>
+        <li>A machine <strong>cannot</strong> be produced that can create conscious or unconscious life; This would imply that organic life as a whole cannot be artificially synthesized within the Universe.</li>
+        <li>A machine <strong>can</strong> be produced that can create unconscious life (this is the doll machine), but <strong>not</strong> one that creates conscious life; This would suggest that conscious and unconscious life are to some degree unrelated, and that conscious beings <strong>do not</strong> arise from unconscious ones (if they did, a doll machine would also be a consciousness-producing machine).</li>
+        <li>A machine <strong>can</strong> be produced that can create <strong>both</strong> conscious and unconscious life.</li>
+    </ol>
+    <p>Rieler puts it simply: "If the tools that create life exist entirely within our Universe, then we ourself, not just random chance, should be able to create life."</p>
+    <p>The fourth permutation, that a machine can be produced that can create conscious life but not unconscious life, is disregarded by Rieler.</p>
+
+    <h2>Implications of the divine</h2>
+    <blockquote>If a doll machine was made, and it was proven that a machine that can produce consciousness cannot be made, then there must be a god. But if conscious life can arise naturally without godly intervention, we should be able to replicate that process.</blockquote>
+    <cite>Jane Rieler</cite>
+    <p>This god Rieler referred to, which she primarily attributed to the second (though occasionally the first) case, has been unoffically named <strong>Jane Rieler's god</strong> by the general public.</p>
+
+    <h2>Controversy</h2>
+    <p>Rieler faced criticism from both her colleagues and the broader scientific community for repeatedly implying a connection between consciousness and the divine—or rather, the arising of conscious life from unconscious life being more than just an evolutionary benefit.</p>
+///#///
+
+///Anomalous_Entity_Classification///
+    <h1>Anomalous Entity Classification</h1>
+    
+        <p><strong>Anomalous Entity Classification</strong> is a system that serves to better document the distribution of <a>anomalous entities</a>.</p>
+        
+        <h2>Class A</h2>
+        <p><strong>Class A</strong> entities are capable of reproduction and are typically integrated into the ecosystem in a similar way to animals.</p>
+        
+        <h2>Class B</h2>
+        <p><strong>Class B</strong> entities are incapable of reproduction and so their origin is typically artificial/man-made.</p>
+    
+        <h2>Class C</h2>
+        <p>Entities classified under <strong>Class C</strong> have been found to, due to some property, only exist as a sole individual within the entire universe. These include beings that support a universal law (such as the <a>Medulla</a> with the expansion of the universe), Jane Rieler's god (as proposed in her <a href="Doll_machine">doll machine</a> thought experiment), and so forth.</p>
+    
+        <h2>Class CU</h2>
+        <p>Similar to Class C entities, only one <strong>Class CU</strong> entity of a given type exists, the difference being its uniqueness has yet been proven to be true. The formation of this classification is from <i>Class C</i> and the letter <i>U</i> representing "Unknown."</p>
+      
+        <h2>Plus H</h2>
+        <p><strong>Plus H</strong> is a class modifier (written in the form <i>Class C+H</i>) that describes hypothetical anomalous entities. It maintain's the base classes description, but with the addition that they have not been directly observed but are known to exist due to their effect on their environment.</p>
 ///#///
