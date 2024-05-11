@@ -16,11 +16,15 @@
     </ul>
 ///#///
 
+///Anomalous_entities///
+<strong>Anomalous entities</strong> are animals, creatures, or entities that cannot be traced back to known animal family trees.
+///#///
+
 ///Boering_Rieler_Test///
     <h1>Boering-Rieler Test</h1>
     
     <p>The <strong>Boering-Rieler Test</strong>, devised by <a>Charlie Boering</a> and <a>Jane Rieler</a>, attempts to test whether a living creature is aware of its existence/has conscious experience. A creature that fails the test is known as a <a href="https://en.wikipedia.org/wiki/Philosophical_zombie">philosophical zombie</a> (or "p-zombie").</p>
-    <p>Rieler used the Boering-Rieler Test as the basis for her <a href="Doll_machine">doll machine</a> thought experiment.</p>
+    <p>Rieler used the Boering-Rieler Test as the basis for her <a href="?page=Doll_machine">doll machine</a> thought experiment.</p>
     
     <!--
     https://en.wikipedia.org/wiki/Animal_machine
@@ -32,7 +36,7 @@
     <!--     A variation of the Boering-Rieler Test -->
     
     <h2>Shortcomings</h2>
-    <p>The test observes the interaction between creatures, thus excluding <a href="Anomalous_Entity_Classification">Class-C</a> entities.</p>
+    <p>The test observes the interaction between creatures, thus excluding <a href="?page=Anomalous_Entity_Classification">Class-C</a> entities.</p>
     
     <h2>Criticism</h2>
     <p>Not an actual measure of consciousness, only that such a quality exists, and that the difficulty to pin down what exactly is meant by consciousness rules this out</p>
@@ -41,7 +45,7 @@
 ///Andridae///
     <h1>Andridae</h1>
     
-    <p><strong>Andrids</strong> (category <i>Andridae</i>) are a broad categorization of six-toed, arboreal, quadrupedal <a>anomalous entities</a>.</p>
+    <p><strong>Andrids</strong> (category <i>Andridae</i>) are a broad categorization of six-toed, arboreal, quadrupedal <a src="?page=Anomalous_entities">anomalous entities</a>.</p>
 
     <h2>Appearance</h2>
     <p>Each foot has six digits: five slender toes and a pseudo-thumb evolved to better grasp tree limbs.</p>
@@ -58,8 +62,8 @@
     <h1>Skinwalker</h1>
     <img src="https://townsquare.media/site/532/files/2023/03/attachment-Skinwalker1.jpg">
     
-    <p>Skinwalkers are a <a href="Anomalous_Entity_Classification">Class-A</a> <a>anomalous entity</a>. They are categorized as human-analogous, sharing physical features with humans as a form of aggressive mimicry. Skinwalkers are not related to humans.</p>
-    <p>Skinwalkers have been shown to not pass the <a href="Boering_Rieler_Test">Boering-Rieler Test</a> of consciousness.</p>
+    <p>Skinwalkers are a <a href="?page=Anomalous_Entity_Classification">Class-A</a> <a>anomalous entity</a>. They are categorized as human-analogous, sharing physical features with humans as a form of aggressive mimicry. Skinwalkers are not related to humans.</p>
+    <p>Skinwalkers have been shown to not pass the <a href="?page=Boering_Rieler_Test">Boering-Rieler Test</a> of consciousness.</p>
     
     <h2>Appearance</h2>
     <p>Skinwalkers appearance varies between individuals, resembling animals or humans with notable deformities. These deformities include lengthened fingers, missing limbs, extra limbs, dislocated jaw, missing jaw, absence of pigmentation in the skin, etc.</p>
@@ -74,7 +78,7 @@
     <h1>Wendigo</h1>
     <img src="https://cdn.openart.ai/stable_diffusion/ffc6aca7a0380c80c01048c027d5f946f53e318a_2000x2000.webp">
     
-    <p>Wendigo are a <a href="Anomalous_Entity_Classification">Class-A</a> <a>anomalous entity</a> in the category <a href="Andridae">Andridae</a> that once inhabited Northern America.</p>
+    <p>Wendigo are a <a href="?page=Anomalous_Entity_Classification">Class-A</a> <a>anomalous entity</a> in the category <a href="Andridae">Andridae</a> that once inhabited Northern America.</p>
 
     <h2>In the wild</h2>
     <p>The last wild wendigo sighting was in 2005. It is unknown if they continue to exist in the wild.</p>
