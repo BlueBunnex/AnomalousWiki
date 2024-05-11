@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Anomalous Wiki</title>
+    <link rel="stylesheet" href="style.css">
+
+    <!-- load content -->
+    <script>
+        fetch("pages.txt").then(response => {
+            response.text().then(data => {
+
+                const main = document.getElementsByTagName("main")[0];
+                
+                const urlParams = new URLSearchParams(window.location.search);
+                var pageId = urlParams.get("page");
+                    pageId = (pageId == null) ? "home" : pageId;
+
+                // find start of article
+                var i = data.indexOf("///" + pageId + "///");
+                if (i == -1) {
+                    i = data.indexOf("///notfound///") + 14;
+                } else {
+                    i += pageId.length + 6;
+                }
+
+                // crop out relevant page
+                data = data.substring(i);
+                data = data.substring(0, data.indexOf("///#///"));
+
+                main.innerHTML = data;
+                
+            });
+        });
+    </script>
+</head>
+<body>
+
+    <!-- Rieler Monster - Class B -->
+
+    <nav>
+        <a href='/AnomalousWiki/index'>Home</a>
+        |
+        <a href='https://github.com/BlueBunnex/AnomalousWiki'>Repo</a>
+    </nav>
+
+    <main></main>
+    
+</body>
+</html>
