@@ -1,0 +1,37 @@
+///notfound///
+<h1>Page not found</h1>
+///#///
+
+///home///
+<h1>Home</h1>
+<ul>
+    <li><a href="?page=Skinwalker">Skinwalker</a></li>
+    <li><a href="?page=Andridae">Andridae</a></li>
+    <li><a href="?page=Wendigo">Wendigo</a></li>
+    <li><a href="?page=Boering_Rieler_Test">Boering-Rieler Test</a></li>
+    <li><a href="?page=Doll_machine">Doll machine</a></li>
+    <li><a href="?page=Anomalous_Entity_Classification">Anomalous Entity Classification</a></li>
+</ul>
+///#///
+
+///Boering-Rieler Test///
+<h1>Boering-Rieler Test</h1>
+
+<p>The <strong>Boering-Rieler Test</strong>, devised by <a>Charlie Boering</a> and <a>Jane Rieler</a>, attempts to test whether a living creature is aware of its existence/has conscious experience. A creature that fails the test is known as a <a href="https://en.wikipedia.org/wiki/Philosophical_zombie">philosophical zombie</a> (or "p-zombie").</p>
+<p>Rieler used the Boering-Rieler Test as the basis for her <a href="Doll_machine">doll machine</a> thought experiment.</p>
+
+<!--
+https://en.wikipedia.org/wiki/Animal_machine
+-->
+
+<h2>Procedure</h2>
+<!--     The most standard form of the test describes -->
+<!--     The test has been shown to be rigorous: any member of a species displays results consistent with that of other members of the same species. -->
+<!--     A variation of the Boering-Rieler Test -->
+
+<h2>Shortcomings</h2>
+<p>The test observes the interaction between creatures, thus excluding <a href="Anomalous_Entity_Classification">Class-C</a> entities.</p>
+
+<h2>Criticism</h2>
+<p>Not an actual measure of consciousness, only that such a quality exists, and that the difficulty to pin down what exactly is meant by consciousness rules this out</p>
+///#///
